@@ -19,6 +19,7 @@
       &:hover {
         background: lighten($main-color, 3%); 
         padding-left: $spacing-m + $spacing-s;
+        color: white;
         &::after {
           content:'\2192'; 
           margin-left: $spacing-xs;
