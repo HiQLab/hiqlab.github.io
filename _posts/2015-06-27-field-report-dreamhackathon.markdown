@@ -66,4 +66,4 @@ This being my first hackathon I started out with the expectations that it would 
 [Goo]:http://goocreate.com/
 [Node.js]:https://nodejs.org/
 [Heroku]:https://www.heroku.com/
-[Dreamhack]:http;//dreamhack.se
+[Dreamhack]:http://dreamhack.se
