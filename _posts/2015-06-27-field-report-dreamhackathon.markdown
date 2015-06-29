@@ -4,27 +4,25 @@ title:  "Field report: Dreamhackathon"
 date:   2015-06-27 16:57:51
 ---
 
-# Field report: Dreamhackathon
-
 Between the 13th and 14th of June I attended my first hackathon in sunny Jönköping during [Dreamhack], the worlds largest LAN and computer festival.
 
-### The what and the why?
+## The what and the why?
 For the uninitated: a hackathon is an event where in teams you come up with an idea and develop a software prototype during a time limit (often 24 hours). The participating teams then present their work and compete against each other for various prizes. For this particular hackathon a team could be 1-5 people, time limit was 24 hours, the theme was collaboration and since the event was a part of ]Dreamhack (the Mecca of gaming) most if not all teams were looking to make games. 
 
 The main attraction for taking part of a hackathon is to come up with cool ideas and developing a proof of concept. It's an creative outlet where you can show off both your creativity in coming up with ideas and your technical skills in making them come true.
 
-## Dreamhack
+# Dreamhack
 As mentioned earlier and as one might expect from the name, Dreamhackathon is a hackathon which takes place during Dreamhack. Dreamhack is the worlds largest LAN and computer festival with 26000 visitors where rougly 10000 bring their own computers and is organized twice a year in Jönköping. The event spans 4 days and contains many gaming tournaments with big prize pools, concerts, exhibitions and the recently started hackathon.
 
 ![openingBack](https://dl.dropboxusercontent.com/u/3879201/Dreamhack/opening_back.jpg) *Dreamhack grand opening laser show. Photo by Rikard Söderberg*
 
-## Team & Idea
+# Team & Idea
 Our team was a full team of five. Four of us recently graduated together and all work as software developers and at the hackathon we were joined by a graphical artist with a knack for 3D modeling. Unlike many other teams we didn't arrive at the event with a clear idea what we wanted to do. We only knew we wanted to do something multiplayer with the theme collaboration and something which utilized and worked on different types of devices, mainly both computers and phones. During the brain storming before the event started, a joke about how we were all sitting in the same boat turned into an idea about a game where you literally sit in the same boat and try to navigate a course. And thus the idea for a multiplayer 3D rowing simulator was born.
 
-## The Tech
+# The Tech
 On the technical side we decided to use a javascript WebGL 3D engine called [Goo] for everything visual and a server backend written in [Node.js] and hosted on [Heroku] for the multiplayer capabilities.
 
-## The Competition
+# The Competition
 After a series of short presentations about the event, rules and judges, 20.00 on Saturday evening the 24 hour timer started and the competition was underway.
 
 ![dreamhackathonEntrance](https://dl.dropboxusercontent.com/u/3879201/Dreamhack/IMG_0066.JPG) *24 hours, 23 teams and an endless amount of energy drink, soda and coffee*
@@ -37,7 +35,7 @@ With about 10 hours left we felt the end was nearing and started prioritizing mo
 
 This caused a dilemma when we were 15 minutes from the deadline and suddenly got our collision detection to work. Do we dare try to implement it in our stable version or play it safe and stick to what we have in fear of breaking something and not having the time to revert or fix? After a quick discussion we decided to play it safe and not implement it, even though we had spent many hours on it. With 40 seconds to spare we uploaded our game and were done. Hallelujah, we made it.
 
-##The Presentations
+# The Presentations
 20.00 on Sunday evening, we could finally breath a sigh of relief. The last 3 hours had been very hectic and we now had 45 minutes to calm down and prepare our 3 minute presentation and demo. 
 
 ![Presentation](https://dl.dropboxusercontent.com/u/3879201/Dreamhack/IMG_0078.JPG)
@@ -48,7 +46,7 @@ Even though the presentations were only allowed to be a maximum of 3 minutes it 
 ![Dreamhackathon winners](https://dl.dropboxusercontent.com/u/3879201/Dreamhack/winners.jpg)
 *The winners of Dreamhackathon at Dreamhack Summer 2015. Photo by Stephanie Lindgren*
 
-## Conclusion
+# Conclusion
 ![The Row Team](https://dl.dropboxusercontent.com/u/3879201/Dreamhack/row.jpg)
 *The team. One of our two slides for the presentation*
 
