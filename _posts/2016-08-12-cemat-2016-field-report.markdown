@@ -147,7 +147,7 @@ The other main display there was an autonomous hybrid truck concept. I’m going
 
 Heading up the middle of the large player alley was Jungheinrich. Jungheinrich featured an order picking assist truck as well but it seemed to be more of an addon to a regular pallet truck and they were always struggling to get it to work properly. This solution involved some kind of AR glasses that never seemed to be working and a wrist mounted controller but the gist of it seemed to be that you could see the items to be picked in the glasses, then push a button on the wrist controller to make the truck drive forward and then pick the item.
 
-[http://www.jungheinrich.com/](http://www.jungheinrich.com/)
+[Jungheinrich Website](http://www.jungheinrich.com/)
 
 ![image alt text](/assets/posts/cemat_2016/image_9.jpg)
 
