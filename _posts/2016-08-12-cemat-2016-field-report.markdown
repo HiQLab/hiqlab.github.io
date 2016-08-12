@@ -76,15 +76,24 @@ As previously described, one of the more common order picking systems is the voi
 
 **Top System** has studied order pickers and has developed a line of products to assist the everyday life of pickers. Their product line Lydia is a VDW system where they have taken the user into extra consideration. For those who dislike headsets due to aesthetic or encumbering reasons they have a voice vest solution where you have a harness that has speakers on both shoulders for a head-gear free solution.
 
+[Topsystem Website](http://www.topsystem.de/)
+
 Beyond VDW they have smart glasses for pick by vision and also devices like wrist mounted hand scanners, and displays (similar to smart watches) that all can be used to eliminate error. This is especially useful in environments that sometimes can be loud so audio in both directions might not be possible.
 
 Other companies that are looking to wearables as a solution to everyday life for a picker are **Picavi** and **Ubimax**. Both companies have smart glasses, Picavis having a integrated solution with confirmation via buttons on a power pack and Ubimax going the route similar to Top system using scanners to assist the picker, scanning a pallet giving information on the contents.
+
+[Pickavi Website](http://picavi.com/)
+[Ubimax Website](http://www.ubimax.de)
 
 ![image alt text](/assets/posts/cemat_2016/image_4.jpg)
 
 *Picavi. Photo: Deutsche Messe*
 
 ## Automation in traditional warehousing
+
+![image alt text](https://upload.wikimedia.org/wikipedia/commons/a/a2/Modern_warehouse_with_pallet_rack_storage_system.jpg)
+
+*Modern traditional warehouse. Photo: Wikipedia*
 
 Traditional warehousing entails shelving systems where trucks humans and others operate between these shelves, picking orders, storing parcels etc. These sites are what you would traditionally expect a warehouse to look like, and are what the majority of all the warehouses in the world currently look like.
 
@@ -164,6 +173,8 @@ Jungheinrich also featured one of the very very few touch tables that actually w
 
 ### Toyota
 
+[Toyota Forklifts Website](http://www.toyota-forklifts.eu)
+
 Toyota at the far right of the huge alley had both the largest booth and a fairly different approach to their presence there. The first thing you noticed was that their booth was similarly to an apple store flooded by toyota employees mostly dressed in suits with red ties. This lended a kind of upscale feel to the whole booth which probably was accentuated by the café with servers and the fountains. We didn’t spend a lot of time at the Toyota display since this was our partner and they wanted us to go explore the other parts of CeMAT for inspiration but in short terms, they had the following on display.
 
 ![image alt text](/assets/posts/cemat_2016/image_11.jpg)
@@ -210,6 +221,10 @@ The future exhibition, was invite only and unfortunately no photos taken here bu
 
 ## Fully automated facilities
 
+![image alt text](http://i.imgur.com/CeMt2ns.jpg)
+
+*Fully atuomated storage facility. Photo: Wikipedia*
+
 Some of the more interesting displays are companies that we categorized as divergents. These are companies coming into the intralogistics sector from other backgrounds, that aren’t concerned with the traditional sense of intralogistics but offer radical new solutions to intralogistics. A lot of those revolve around fully automated rack systems where humans are never meant to exist in other purposes than to repair the existing system. Being radically different to any traditional site, this currently limits the customers to those who can make the investment required for such a change or those who are looking to save physical space even at a high cost.
 
 This sector has grown to represent what currently is the largest divide in intralogistics. Traditional vs. Fully automated warehouses. While full automation also has alot of limitations in what can be stored and how, a lot of the early issues have been worked out and these companies are definately growing to become solid contenders for the customers wallets. A few of the more interesting featured companies in this sector are:
@@ -220,6 +235,8 @@ For the fully automated systems KNAPP seems to be a household name for innovatio
 
 KNAPP had a fully functional demo environment running at CeMAT, which demonstrates the speed and ease to set up a complex picking system.
 
+[KNAPP Website](https://www.knapp.com)
+
 ![image alt text](/assets/posts/cemat_2016/image_15.png)
 
 *KNAPP. Photo: HiQ*
@@ -227,6 +244,8 @@ KNAPP had a fully functional demo environment running at CeMAT, which demonstrat
 ### AUTO STORE
 
 Auto Store had quite a different approach to the automated storage solution. They had a grid system of tracks where small robots could move along this grid and lift or drop plastic bins that were stacked on each other. If an item was needed from a bin lower down in the stack, several of the robots would collaborate to lift the upper bins out of the way. This system of course doesn’t work with pallets but it does work well for smaller parcels.
+
+[AUTO STORE Website](http://autostoresystem.com/)
 
 ![image alt text](/assets/posts/cemat_2016/image_16.jpg)
 *Auto Store. Photo: HiQ*
@@ -259,4 +278,5 @@ One of our tasks here was to search for inspiration for our client Toyota. At Ce
 I believe that we are back to the question of what’s next in Industry 4.0 which is the transition of logistics companies to software companies in logistics. I believe that there is great value for Toyota to broaden its horizons and look beyond its own sector for true inspiration.
 
 *David Stenbeck & Evelina Olsson*
+
 *HiQ Ace Norrköping*
