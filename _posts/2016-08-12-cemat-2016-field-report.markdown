@@ -6,8 +6,6 @@ date:   2016-08-12 15:57:51
 
 As part of an upcoming collaboration with Toyota Material Handling Europe (commonly referred to as TMHE) we had the opportunity to visit CeMAT Hannover during its two final days. At HiQ Ace we have a firm belief in the sharing of knowledge so we wanted to take advantage of this opportunity to learn more about the logistics business and what drives and motivates it by sharing our primary insights with the rest of HiQ.
 
-*Just as a side note, we tried get photos of the tech we cover, but a lot of companies had no photography signs.*
-
 # Background
 
 ## What is CeMAT?
@@ -230,7 +228,8 @@ KNAPP had a fully functional demo environment running at CeMAT, which demonstrat
 
 Auto Store had quite a different approach to the automated storage solution. They had a grid system of tracks where small robots could move along this grid and lift or drop plastic bins that were stacked on each other. If an item was needed from a bin lower down in the stack, several of the robots would collaborate to lift the upper bins out of the way. This system of course doesn’t work with pallets but it does work well for smaller parcels.
 
-# ![image alt text](/assets/posts/cemat_2016/image_16.jpg)*Auto Store. Photo: HiQ*
+![image alt text](/assets/posts/cemat_2016/image_16.jpg)
+*Auto Store. Photo: HiQ*
 
 # A side note on reliance
 
@@ -242,7 +241,8 @@ SICK is a company that makes sensors. In logistics they offer a wide array of se
 
 [https://www.sick.com/se/en/](https://www.sick.com/se/en/)
 
-# ![image alt text](/assets/posts/cemat_2016/image_17.jpg)*SICK. Photo: HiQ*
+![image alt text](/assets/posts/cemat_2016/image_17.jpg)
+*SICK. Photo: HiQ*
 
 # Analysis and closing thoughts
 
@@ -258,3 +258,5 @@ One of our tasks here was to search for inspiration for our client Toyota. At Ce
 
 I believe that we are back to the question of what’s next in Industry 4.0 which is the transition of logistics companies to software companies in logistics. I believe that there is great value for Toyota to broaden its horizons and look beyond its own sector for true inspiration.
 
+*David Stenbeck & Evelina Olsson*
+*HiQ Ace Norrköping*
