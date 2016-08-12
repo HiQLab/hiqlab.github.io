@@ -83,6 +83,7 @@ Beyond VDW they have smart glasses for pick by vision and also devices like wris
 Other companies that are looking to wearables as a solution to everyday life for a picker are **Picavi** and **Ubimax**. Both companies have smart glasses, Picavis having a integrated solution with confirmation via buttons on a power pack and Ubimax going the route similar to Top system using scanners to assist the picker, scanning a pallet giving information on the contents.
 
 [Pickavi Website](http://picavi.com/)
+
 [Ubimax Website](http://www.ubimax.de)
 
 ![image alt text](/assets/posts/cemat_2016/image_4.jpg)
