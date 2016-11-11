@@ -43,11 +43,24 @@ function displayCheckeredShirt(value) {
 		$("div.cshirtLogo").css("opacity", 1.0)
 		$("div.center").css("opacity", 1.0)
 		$("div.center").html("<p>It's Checkered Shirt Friday!</p>");
-		$("div.center").css("top", "-500px")
+		$("div.center").css("top", "-450px")
+
+		$("div.center").css("fontFamily", "Shrikhand, sans-serif")
+		$("div.center").css("fontSize", 50)
+		$("div.center").css("color", "black")
+		$("div.center").css("textShadow", "-2px 0 white, 0 2px white, 2px 0 white, 0 -2px white")
+		$("div.center").css("backgroundColor","rgba(0,0,0,0)")
+
 	} else {
 		$("div.cshirtLogo").css("opacity", 0.0)
 		$("div.center").css("opacity", 1.0)
 		$("div.center").css("top", "0px")
+
+		$("div.center").css("fontFamily", "Open Sans, sans-serif")
+		$("div.center").css("fontSize", 30)
+		$("div.center").css("color", "black")
+		$("div.center").css("textShadow", "0")
+		$("div.center").css("backgroundColor","rgba(255,255,255,0.7)")
 	}
 }
 
