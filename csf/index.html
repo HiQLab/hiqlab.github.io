@@ -3,6 +3,7 @@
 <head>
 	<title>Checkered Shirt Friday</title>
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
 	<script src="jquery-2.1.4.min.js"></script>
 	<script src="app.js"></script>
 <style>
@@ -13,6 +14,8 @@ body {
 .center {
 	position: absolute;
 	margin: auto;
+	display: table;
+	z-index: 5;
 	top: 0;
 	right: 0;
 	bottom: 0;
@@ -26,12 +29,75 @@ body {
 	font-size: 30px;
 	font-family: 'Open Sans', sans-serif;
 }
+.checkered-background {
+	background-image: url("checkeredPatternBlackWhite.jpg");
+	mix-blend-mode: multiply;
+	opacity: 0.9;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 4;
+	width: 100%;
+	height: 100%;
+	margin: auto;
+}
+.color-layer-over {
+	background-color: rgb(210,8,14);
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 3;
+	width: 100%;
+	height: 100%;
+	margin: auto;
+}
+.color-layer-under {
+	background-color: rgb(210,8,14);
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 2;
+	width: 100%;
+	height: 100%;
+	margin: auto;
+}
+.cshirtLogo {
+	background-image: url("shirt.png");
+	background-size: contain;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+    width: 400px;
+    height: 400px;
+    z-index: 6;
+	-webkit-animation:spin 4s ease infinite;
+	-moz-animation:spin 4s ease infinite;
+    animation:spin 4s ease infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
 </style>
 </head>
 <body>
-
-<div class="center">
-</div>
-
+	<div class="cshirtLogo">
+	</div>
+	<div class="center">
+	</div>
+	<div class="checkered-background">
+	</div>
+	<div class="color-layer-over">
+	</div>
+	<div class="color-layer-under">
+	</div>
 </body>
 </html>
