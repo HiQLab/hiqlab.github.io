@@ -1,0 +1,59 @@
+
+<html>
+<head >
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+</head>
+<body>
+    <div class="blurBackground"></div>
+    <div class="blackBackground"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <img src="hiqemblem.png" class="img-responsive image">
+            </div>
+        </div>
+        <div class="row">
+                <div id="teamAHero1" class="col-md-4 text"></div>
+                <div id="teamAHero2" class="col-md-4 text"></div>
+                <div id="teamAHero3" class="col-md-4 text"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="vs">VS</div>
+            </div>
+        </div>
+        <div class="row">
+            <div id="teamBHero1" class="col-md-4 text"></div>
+            <div id="teamBHero2" class="col-md-4 text"></div>
+            <div id="teamBHero3" class="col-md-4 text"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="button">Randomized Setup</div>
+            </div>
+        </div>
+        </div>
+    </div>
+
+<script>
+    var dps = ["Genji", "Mccree", "Pharah", "Reaper", "Soldier 76", "Sombra", "Tracer", "Bastion", "Hanzo", "Junkrat", "Mei", "Torbjörn", "Widowmaker", "Symmetra"];
+    var tanks = ["Reinhardt", "Winston", "Roadhog", "Zarya", "D.Va"];
+    var healers = ["Lucio", "Mercy", "Ana", "Zenyatta"];
+    document.getElementById("button").onclick = function () {
+        var teamA = [dps[Math.floor(Math.random() * dps.length)], tanks[Math.floor(Math.random() * tanks.length)], healers[Math.floor(Math.random() * healers.length)]];
+        var teamB = [dps[Math.floor(Math.random() * dps.length)], tanks[Math.floor(Math.random() * tanks.length)], healers[Math.floor(Math.random() * healers.length)]];
+        document.getElementById("vs").style.opacity = 1;
+
+        document.getElementById("teamAHero1").innerHTML = teamA[0];
+        document.getElementById("teamAHero2").innerHTML = teamA[1];
+        document.getElementById("teamAHero3").innerHTML = teamA[2];
+
+        document.getElementById("teamBHero1").innerHTML = teamB[0];
+        document.getElementById("teamBHero2").innerHTML = teamB[1];
+        document.getElementById("teamBHero3").innerHTML = teamB[2];
+    };
+</script>
+</body>
+</html>
