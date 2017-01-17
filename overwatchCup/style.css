@@ -71,6 +71,11 @@
     text-align: center;
 }
 
+.cover-container {
+    margin-top: 50px;
+    overflow: auto;
+}
+
 .container {
     position: absolute;
     top: 50%;
@@ -79,9 +84,12 @@
 }
 
 .image {
-    max-height: 300px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 50px;
+    max-height: 350px;
+    height: 350px;
+    width: 220px;
+    background-image: url('hiqEmblem.png');
+    background-size: contain;
+    display: -webkit-inline-box;
+    background-repeat: no-repeat;
 }
+
